@@ -1,0 +1,32 @@
+<script type='application/ld+json'> 
+{
+  "@context": "http://www.schema.org",
+  "@type": "product",
+  "brand": "HP ",
+  "name": "Laptop 256gb ssd",
+  "image": "https://images.jdmagicbox.com/quickquotes/images_main/hp-2018-255-g6-39-6-cm-15-6-laptop-8-gb-256-gb-ssd-intel-core-i5-windows-10-professional-86431274-rqf6b.jpg",
+  "description": "256gb ssd, 16gb ram",
+  "aggregateRating": {
+    "@type": "aggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": "256"
+  }
+ "@context": "http://www.schema.org",
+  "@type": "product",
+  "brand": "Lenovo",
+  "name": "Laptop 256gb ssd",
+  "image": "https://images.jdmagicbox.com/quickquotes/images_main/hp-2018-255-g6-39-6-cm-15-6-laptop-8-gb-256-gb-ssd-intel-core-i5-windows-10-professional-86431274-rqf6b.jpg",
+  "description": "256gb ssd, 16gb ram",
+  "aggregateRating": {
+    "@type": "aggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": "256"
+  }
+}
+ </script>
+
+
+
+
+
+ 
